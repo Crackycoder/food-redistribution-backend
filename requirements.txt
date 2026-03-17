@@ -1,4 +1,4 @@
 flask
-flask-mysqldb
 flask-cors
 gunicorn
+psycopg2-binary
